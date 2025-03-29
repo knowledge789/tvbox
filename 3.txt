@@ -1,0 +1,12 @@
+{"urls":[
+{"name":"📛公众号丨挺好分享","url":"http://ztha.top/TVBox/thdjk.json"},
+{"name":"🔰公众号丨挺好专享","url":"http://ztha.top/ys.json"},
+{"name":"🔰PG线路丨240923","url":"http://ztha.top/PG/jsm.json"},
+{"name":"🧶挺好丨饭影视","url":"http://饭太硬.com/tv"},
+{"name":"🦗挺好丨讴歌线路","url":"https://xn--zp8-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌zp8"},
+{"name":"🌙挺好丨月光宝盒","url":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json"},
+{"name":"📛挺好丨OK线路","url":"https://gitee.com/okjack/okk/raw/master/op.txt"},
+{"name":"💦挺好丨巧技巧技","url":"http://pandown.pro/tvbox/tvbox.json"},
+{"name":"🦒挺好丨小米线路","url":"http://xhww.fun:63/小米/DEMO.json"},
+
+]}

@@ -1,5 +1,6 @@
 {"urls":[
 {"name":"🚀ok","url":"http://ok321.top/tv"},
+{"name":"🦒很牛逼的源","url":"https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/dianshi.json"},
 {"name":"🌙宝盒线路","url":"http://mzjk.top/禁止贩卖"},
 {"name":"🔰南风线路","url":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
 {"name":"🧶讴歌线路","url":"http://tv.nxog.top/m/111.php?ou=公众号欧歌"},

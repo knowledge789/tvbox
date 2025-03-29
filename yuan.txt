@@ -1,0 +1,32 @@
+{
+  "urls": [
+    {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "🚀饭硬专线"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "🚀南风线路"
+    },
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
+      "name": "🚀讴歌线路"
+    },
+    {
+      "url": "http://www.mpanso.com/小米/DEMO.json",
+      "name": "🚀小米线路"
+    },
+    {
+      "url": "http://mzjk.top/禁止贩卖",
+      "name": "🚀宝盒线路"
+    },
+    {
+            "url": "http://ok321.top/tv",
+            "name": "🚀ok"
+    },
+    {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🚀巧技"
+     },
+     ]
+}

@@ -1,16 +1,11 @@
-{
-  "urls": [
+{  "urls": [
     {
-      "url": "http://www.饭太硬.com/tv",
-      "name": "🚀饭硬专线"
+      "url": "https://7337.kstore.space/twvip/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json",
+      "name": "🚀天微影线"
     },
     {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
       "name": "🚀南风线路"
-    },
-    {
-      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
-      "name": "🚀讴歌线路"
     },
     {
       "url": "http://www.mpanso.com/小米/DEMO.json",
@@ -25,8 +20,15 @@
             "name": "🚀ok"
     },
     {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "🚀饭硬专线"
+    },
+    {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
             "name": "🚀巧技"
-     },
-     ]
-}
+     }, 
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
+      "name": "🚀讴歌线路"
+    },
+]}
